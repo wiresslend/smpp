@@ -1,3 +1,3 @@
-module github.com/wiresslend/smpp
+module github.com/ajankovic/smpp
 
 go 1.13
